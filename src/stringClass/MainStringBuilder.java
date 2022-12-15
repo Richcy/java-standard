@@ -13,5 +13,9 @@ public class MainStringBuilder {
                 .append(" ").append(lastName);
         System.out.println("Builder "+ builder);
 
+        StringBuffer buffer = new StringBuffer(firstName)
+                .append(" ").append(lastName);
+        System.out.println("Buffer "+ buffer);
+
     }
 }
