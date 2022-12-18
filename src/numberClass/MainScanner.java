@@ -50,7 +50,5 @@ public class MainScanner {
         System.out.println("bentuk Day "+ time2);
         System.out.println("bentuk Week "+ time3);
         System.out.println("bentuk Year "+ time4);
-
-
     }
 }
